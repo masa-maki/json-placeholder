@@ -1,6 +1,6 @@
 # json-placeholder
 
-This small application provides fetch data in json format through API and display it on the console.
+This small application provides fetch data in json format through API (https://jsonplaceholder.typicode.com/) and display it on the console.
 
 ![image](https://github.com/user-attachments/assets/e39ee63e-ce61-4ef6-b25c-a7c107e38abb)
 
